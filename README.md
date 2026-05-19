@@ -1,5 +1,7 @@
 Análisis de Clientes y Uso de Servicios en ConnectaTel
+
 Objetivo del proyecto
+
 El objetivo de este proyecto es analizar el comportamiento de los clientes de ConnectaTel mediante información demográfica y de uso de servicios móviles, con el fin de:
     - Identificar patrones de consumo.
     - Detectar problemas de calidad en los datos.
@@ -8,12 +10,14 @@ El objetivo de este proyecto es analizar el comportamiento de los clientes de Co
     - Proponer mejoras y oportunidades para los planes actuales.
 
 Datasets utilizados
+
 Se trabajó principalmente con los siguientes datasets:
 plans.csv: contiene información sobre el uso de los planes actuales. 
 users_latam.csv: contiene información demográfica y de suscripción de los clientes.
 usage.csv: contiene información del uso de servicios por parte de los usuarios.
 
 Etapas del análisis realizadas
+
 1. Exploración inicial de datos (EDA)
 Revisión de estructura de datasets.
 Identificación de tipos de variables.
