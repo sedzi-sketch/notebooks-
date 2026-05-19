@@ -42,39 +42,17 @@ Evaluación de usuarios de alto valor.
 Recomendaciones estratégicas para negocio.
 
 Cómo ejecutar el notebook
-Opción 1: Google Colab
-Abrir Google Colab:
-https://colab.research.google.com/
-Subir el notebook .ipynb.
-Subir los datasets requeridos (users.csv, usage.csv).
-Ejecutar las celdas en orden.
-Opción 2: Jupyter Notebook
-Requisitos:
-Python 3.x
-pandas
-numpy
-seaborn
-matplotlib
-Instalación de librerías:
-pip install pandas numpy seaborn matplotlib
-Ejecutar notebook:
-jupyter notebook
-🔁 Guía de reproducción
-Cargar datasets.
-Importar librerías.
-Ejecutar limpieza de datos.
-Validar nulos y valores inválidos.
-Realizar análisis exploratorio.
-Crear variables agregadas y segmentos.
-Generar visualizaciones.
-Revisar insights y conclusiones ejecutivas.
-📊 Resultados principales
-Se identificaron problemas de calidad en edad, ciudades y fechas.
-Los usuarios se segmentaron en bajo, medio y alto uso.
-Los clientes de alto consumo representan una oportunidad comercial importante.
-El plan Básico concentra la mayor cantidad de usuarios.
-Los patrones de consumo pueden utilizarse para diseñar planes más personalizados y estrategias de fidelización.
-🚀 Recomendaciones
+    Haz clic en el siguiente botón:
+    https://colab.research.google.com/github/sedzi-sketch/notebooks-/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb
+    1. Abre el archivo `.ipynb` en GitHub
+    2. Haz clic en **Open in Colab**
+   
+Guía de reproducción
+    1. Abre [`notebooks/everpeak_analysis.ipynb`](https://colab.research.google.com/github/sedzi-sketch/notebooks-/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
+    2. Ejecuta las celdas en orden
+    3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda).
+
+Recomendaciones:
 Crear planes segmentados según nivel de uso.
 Diseñar estrategias de upselling hacia Premium.
 Mejorar validaciones de captura de datos.
