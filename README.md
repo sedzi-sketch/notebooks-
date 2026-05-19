@@ -60,7 +60,7 @@ Guía de reproducción
 
 Recomendaciones:
 
-Crear planes segmentados según nivel de uso.
-Diseñar estrategias de upselling hacia Premium.
-Mejorar validaciones de captura de datos.
-Implementar análisis continuo de comportamiento de usuarios.
+    Crear planes segmentados según nivel de uso.
+    Diseñar estrategias de upselling hacia Premium.
+    Mejorar validaciones de captura de datos.
+    Implementar análisis continuo de comportamiento de usuarios.
