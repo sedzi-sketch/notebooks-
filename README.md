@@ -46,17 +46,20 @@ Evaluación de usuarios de alto valor.
 Recomendaciones estratégicas para negocio.
 
 Cómo ejecutar el notebook
+    
     Haz clic en el siguiente botón:
     https://colab.research.google.com/github/sedzi-sketch/notebooks-/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb
     1. Abre el archivo `.ipynb` en GitHub
     2. Haz clic en **Open in Colab**
    
 Guía de reproducción
+
     1. Abre [`notebooks/everpeak_analysis.ipynb`](https://colab.research.google.com/github/sedzi-sketch/notebooks-/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
     2. Ejecuta las celdas en orden
     3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda).
 
 Recomendaciones:
+
 Crear planes segmentados según nivel de uso.
 Diseñar estrategias de upselling hacia Premium.
 Mejorar validaciones de captura de datos.
